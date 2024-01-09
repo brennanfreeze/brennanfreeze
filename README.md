@@ -1,10 +1,6 @@
 <img src = "https://images.wallpapersden.com/image/download/town-8-bit_a2lsaW2UmZqaraWkpJRoaWllrWZpaWU.jpg"  width = "100%" margin = "0 auto">
 
 <h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Brennan Freeze</h1>
-- 🔭 I’m currently working on: <a href="https://github.com/QCpyDevs/QCpy">QCpy</a> and Hyprcrd <br> 
-- 🌱 I’m currently learning Koa.js, React.js, Node.js, Firebase, PostgreSQL, C#, and advanced Python<br>
-
-
 <div>
   <br/>
       <a href="https://github.com/123freezebrennan/github-readme-stats">
