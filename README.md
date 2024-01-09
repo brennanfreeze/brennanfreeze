@@ -4,14 +4,14 @@
 <div>
   <br/>
       <a href="https://github.com/123freezebrennan/github-readme-stats">
-    <img alt="Brennan Freeze's Github Stats" src="https://github-readme-stats.vercel.app/api?username=123freezebrennan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Brennan Freeze's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brennanfreeze&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
     <a href="https://github.com/123freezebrennan/github-readme-stats">
-      <img alt="Brennan Freeze's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123freezebrennan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+      <img alt="Brennan Freeze's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennanfreeze&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <br/>
  </div>
- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=123freezebrennan&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=brennanfreeze&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 
 
