@@ -1,14 +1,15 @@
 <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
+  <style>
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        align-items: center
+    }
+  </style>
   <div xmlns="http://www.w3.org/1999/xhtml">
-    <style>
-      .wrapper {
-          display: flex;
-          flex-direction: column;
-          gap: 15px;
-          align-items: center
-        }
-    </style>
+
     <div class="wrapper">
   <img src = "https://images.wallpapersden.com/image/download/town-8-bit_a2lsaW2UmZqaraWkpJRoaWllrWZpaWU.jpg"  width = "100%" margin = "0 auto">
   
