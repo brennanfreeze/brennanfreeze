@@ -1,44 +1,41 @@
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .tags {
-                    display: flex;
-                    flex-wrap: wrap;
-                    height: 100%;
-                    width: 100%;
-                }
-                .tag {
-                    background-color: #e3ffff;
-                    border-radius: 0.25em;
-                    color: #0ca4a5;
-                    border: 1px solid #0ca4a5;
-                    display: inline-block;
-                    font-size: 0.75em;
-                    line-height: 2em;
-                    margin: 0.125em;
-                    padding: 0 0.5em;
-                    text-decoration: none;
-                    font-family: sans-serif;
-                }
-            </style>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
 
-            <div class="tags">
-                <div class="tag">Angular</div>
-                <div class="tag">Vue(X)</div>
-                <div class="tag">JavaScript</div>
-                <div class="tag">TypeScript</div>
-            </div>
-            <div class="tags">
-                <div class="tag">(S)CSS</div>
-                <div class="tag">Building UIs</div>
-                <div class="tag">Web Components</div>
-            </div>
-            <div class="tags">
-                <div class="tag">Ionic</div>
-                <div class="tag">Electron</div>
-                <div class="tag">.NET</div>
-            </div>
-        </div>
-    </foreignObject>
-</svg>
+<div id="user-content-toc">
+  <ul align="center" fontSize="20px">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Brennan</h1></summary>
+    <br></br>
+    <h3> 🔭 I’m currently working on **QC.py and Erosi.app**</h3>
+    <br></br>
+    <h3> 🌱 I’m currently learning **Gin Gonic, GraphQL, Advanced Python, and AWS**</h3>
+    <br></br>
+  </ul>
+</div>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<div width="100%" align="center">
+  
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=brennanfreeze&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brennanfreeze&theme=dark&hide_border=true" />
+  <br></br>
+  <br></br>
+  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brennanfreeze&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+</div>
+
+
+
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
