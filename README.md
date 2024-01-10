@@ -10,26 +10,12 @@
     <br></br>
   </ul>
 </div>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
+
 <div width="100%" align="center">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=brennanfreeze&theme=vue-dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brennanfreeze&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brennanfreeze&theme=vue-dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=brennanfreeze&theme=dark&hide_border=false" /> 
   <br></br>
-  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brennanfreeze&theme=vue-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
-</div>
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brennanfreeze&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+</div>    
 
-
-
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
