@@ -5,8 +5,8 @@
 <div id="user-content-toc">
   <ul align="center" fontSize="20px">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Brennan</h1></summary>
-    <h3> 🔭 I’m currently working on **QC.py and Erosi.app**</h3>
-    <h3> 🌱 I’m currently learning **Gin Gonic, GraphQL, Advanced Python, and AWS**</h3>
+    <h3> 🔭 I’m currently working on: <strong>QC.py and Erosi.app</strong></h3>
+    <h3> 🌱 I’m currently learning: <strong>Gin Gonic, GraphQL, Advanced Python, and AWS</strong></h3>
     <br></br>
   </ul>
 </div>
